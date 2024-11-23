@@ -1,0 +1,1 @@
+The PyQt5 projects above can help you develop desktop applications using Python and Qt5. You can run every project on any platform, such as Linux, Windows, or macOS. The only prerequisite is the installation of Python3 and PyQt5 Framework on your system.
